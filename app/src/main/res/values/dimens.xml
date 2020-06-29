@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_note">50dp</dimen>
+    <dimen name="margin_note">15dp</dimen>
+    <dimen name="url_note_text_height">40dp</dimen>
+    <dimen name="url_note_text_padding">10dp</dimen>
+</resources>
